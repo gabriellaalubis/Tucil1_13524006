@@ -77,8 +77,15 @@ This project does not require compilation. Python files are interpreted at runti
    ```
 
 2. Run the main program:
+   
+   **Windows:**
    ```bash
    python src/core.py
+   ```
+   
+   **Linux/macOS:**
+   ```bash
+   python3 src/core.py
    ```
 
 ## How To Use
