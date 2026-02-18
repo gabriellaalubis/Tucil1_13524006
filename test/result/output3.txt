@@ -1,0 +1,9 @@
+K K # A A O O O A 
+M K A A A A # A A 
+# K U U U A O A A 
+P P P U A # A A A 
+B P B # B B H H H 
+B # B B B B B H B 
+B B B S S S B # B 
+B B B B # B B B B 
+B B B B S B B B # 
